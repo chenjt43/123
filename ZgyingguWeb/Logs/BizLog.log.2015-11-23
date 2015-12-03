@@ -1,0 +1,61 @@
+
+<businessLog>
+	<createTime>2015/11/23 11:14:13</createTime>
+	<userName></userName>
+	<operationType>UsersSave</operationType>
+	<target>UserId: 3</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users?id=3</pageURL>
+	<remark>保存Users</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 11:15:16</createTime>
+	<userName></userName>
+	<operationType>UsersSave</operationType>
+	<target>UserId: 3</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users?id=3</pageURL>
+	<remark>保存Users</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 13:44:36</createTime>
+	<userName></userName>
+	<operationType>UsersSave</operationType>
+	<target>UserId: 3</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users?id=3</pageURL>
+	<remark>保存Users</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 14:10:43</createTime>
+	<userName></userName>
+	<operationType>UsersSave</operationType>
+	<target>UserId: 3</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users?id=3</pageURL>
+	<remark>保存Users</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 17:32:19</createTime>
+	<userName></userName>
+	<operationType>UsersSave</operationType>
+	<target>UserId: 3</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users?id=3</pageURL>
+	<remark>保存Users</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 18:12:25</createTime>
+	<userName></userName>
+	<operationType>UsersSave</operationType>
+	<target>UserId: 3</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users?id=3</pageURL>
+	<remark>保存Users</remark>
+</businessLog>

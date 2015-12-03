@@ -1,0 +1,273 @@
+
+<businessLog>
+	<createTime>2015/11/20 10:19:19</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Insert, 参数如下：
+(Output)UserId: 
+(Input)UserName: 709121696@qq.com
+(Input)Password: 123456
+(Input)DisplayName: 刘德华
+(Input)UserHeadImg: 
+(Input)Email: </target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>::1</ipAddress>
+	<pageURL>/api/Users</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 10:20:04</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Insert, 参数如下：
+(Output)UserId: 
+(Input)UserName: 709121696@qq.com
+(Input)Password: 123456
+(Input)DisplayName: 刘德华
+(Input)UserHeadImg: 
+(Input)Email: </target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>::1</ipAddress>
+	<pageURL>/api/Users</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 10:20:37</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Insert, 参数如下：
+(Output)UserId: 
+(Input)UserName: 709121696@qq.com
+(Input)Password: 123456
+(Input)DisplayName: 刘德华
+(Input)UserHeadImg: 
+(Input)Email: </target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>::1</ipAddress>
+	<pageURL>/api/Users</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 10:23:50</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Insert, 参数如下：
+(Output)UserId: 7
+(Input)UserName: 15810120721
+(Input)Password: 123456
+(Input)DisplayName: 周星驰
+(Input)UserHeadImg: 
+(Input)Email: </target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 11:03:40</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Insert, 参数如下：
+(Output)UserId: 
+(Input)UserName: 709121696@qq.com
+(Input)Password: 123456
+(Input)DisplayName: 刘德华
+(Input)UserHeadImg: 
+(Input)Email: </target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>::1</ipAddress>
+	<pageURL>/api/Users</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 14:20:16</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Insert, 参数如下：
+(Output)UserId: 
+(Input)UserName: 15810120721
+(Input)Password: 
+(Input)DisplayName: 
+(Input)UserHeadImg: 
+(Input)Email: </target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 14:21:04</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Insert, 参数如下：
+(Output)UserId: 
+(Input)UserName: 15810120721
+(Input)Password: 
+(Input)DisplayName: 
+(Input)UserHeadImg: 
+(Input)Email: </target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 14:21:39</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Insert, 参数如下：
+(Output)UserId: 
+(Input)UserName: 15810120721
+(Input)Password: 
+(Input)DisplayName: 
+(Input)UserHeadImg: 
+(Input)Email: </target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 14:21:40</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Insert, 参数如下：
+(Output)UserId: 
+(Input)UserName: 15810120721
+(Input)Password: 
+(Input)DisplayName: 
+(Input)UserHeadImg: 
+(Input)Email: </target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 14:25:52</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Insert, 参数如下：
+(Output)UserId: 
+(Input)UserName: 15810120721
+(Input)Password: 123456
+(Input)DisplayName: 张学友
+(Input)UserHeadImg: 
+(Input)Email: </target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 14:27:23</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 
+(Input)CommentContent: 恭喜阿里巴
+(Input)SubjectId: 13
+(Input)CreatorId: 14
+(Input)CreatorName: 张学友
+(Input)CreateTime: 2015/11/20 14:27:22</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 14:30:15</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 31
+(Input)CommentContent: 值得期待！
+(Input)SubjectId: 13
+(Input)CreatorId: 14
+(Input)CreatorName: 张学友
+(Input)CreateTime: 2015/11/20 14:30:15</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 14:36:08</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 31
+(Input)CommentContent: 123456
+(Input)SubjectId: 8
+(Input)CreatorId: 8
+(Input)CreatorName: 周星驰
+(Input)CreateTime: 2015/11/20 14:36:08</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 14:36:16</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 31
+(Input)CommentContent: 周星星
+(Input)SubjectId: 8
+(Input)CreatorId: 8
+(Input)CreatorName: 周星驰
+(Input)CreateTime: 2015/11/20 14:36:16</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 18:30:34</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Update, 参数如下：
+(Input)UserId: 8
+(Input)UserName: zhouxx
+(Input)Password: 123456
+(Input)DisplayName: 周星驰
+(Input)UserHeadImg: 
+(Input)Email: </target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>::1</ipAddress>
+	<pageURL>/api/Users?UserId=8</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 18:31:48</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Update, 参数如下：
+(Input)UserId: 8
+(Input)UserName: zhouxx
+(Input)Password: 123456
+(Input)DisplayName: 周星驰
+(Input)UserHeadImg: images/chenjt.jpg
+(Input)Email: </target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>::1</ipAddress>
+	<pageURL>/api/Users?id=8</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 18:32:39</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Update, 参数如下：
+(Input)UserId: 8
+(Input)UserName: zhouxx
+(Input)Password: 123456
+(Input)DisplayName: 周星驰
+(Input)UserHeadImg: /storage/emulated/0/Android/data/io.dcloud.HBuilder/.HBuilder/apps/HBuilder/doc/head.jpg
+(Input)Email: </target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users?id=8</pageURL>
+	<remark>数据调试</remark>
+</businessLog>

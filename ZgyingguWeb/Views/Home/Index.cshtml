@@ -1,0 +1,76 @@
+﻿<div class="row">
+    <table id="SubjectInfo" class="table">
+        <thead>
+            <tr>
+                <th>发布者</th>
+                <th>发布主题</th>
+                <th>发布时间</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: subjects">
+            <tr>
+                <td data-bind="text: creatorNameField" />
+                <td data-bind="text: subjectNameField" />
+                <td data-bind="text: createTimeField" />
+            </tr>
+        </tbody>
+</table>
+</div>
+
+@section scripts{
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+            function subjectManagerModel() {
+                self = this;
+                self.subjects = ko.observableArray();
+                self.addedsubject = ko.observable();
+
+                self.loadsubjects = function () {
+                    $.get("/api/subjects", null, function (data) {
+                        self.subjects(data);
+                    });
+                };
+
+                //self.addsubject = function (data) {
+                //    if (!self.validate(data)) {
+                //        return;
+                //    }
+                //    alert(data.EmailAddress);
+                //    $.ajax({
+                //        url: "api/subjects/",
+                //        data: self.addedsubject(),
+                //        type: "PUT",
+                //        success: self.loadsubjects
+                //    });
+                //};
+
+                //self.updatesubject = function (data) {
+                //    $.ajax({
+                //        url: "api/subjects/" + data.Id,
+                //        data: data,
+                //        type: "POST",
+                //        success: self.loadsubjects
+                //    });
+                //};
+
+                //self.deletesubject = function (data) {
+                //    $.ajax({
+                //        url: "api/subjects/" + data.Id,
+                //        type: "DELETE",
+                //        success: self.loadsubjects
+                //    });
+                //};
+
+                //self.validate = function (data) {
+                //    if (data.FirstName && data.LastName && data.PhoneNo && data.EmailAddress) {
+                //        return true;
+                //    }
+                //    alert("Please provide complete subject information!");
+                //    return false;
+                //}
+                self.loadsubjects();
+            }
+            ko.applyBindings(new subjectManagerModel());
+        });
+    </script>
+}

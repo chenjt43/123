@@ -1,0 +1,193 @@
+
+<businessLog>
+	<createTime>2015/11/23 11:14:12</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Update, 参数如下：
+(Input)UserId: 3
+(Input)UserName: chenjt
+(Input)Password: 123456
+(Input)DisplayName: 陈家涛
+(Input)UserHeadImg: /storage/emulated/0/Android/data/io.dcloud.HBuilder/.HBuilder/apps/HBuilder/doc/head.jpg
+(Input)Email: 15810120721</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users?id=3</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 11:15:16</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Update, 参数如下：
+(Input)UserId: 3
+(Input)UserName: chenjt
+(Input)Password: 123456
+(Input)DisplayName: 陈家涛
+(Input)UserHeadImg: /storage/emulated/0/Android/data/io.dcloud.HBuilder/.HBuilder/apps/HBuilder/doc/head.jpg
+(Input)Email: 15810120721</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users?id=3</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 13:44:36</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Update, 参数如下：
+(Input)UserId: 3
+(Input)UserName: chenjt
+(Input)Password: 123456
+(Input)DisplayName: 陈家涛
+(Input)UserHeadImg: /storage/emulated/0/Android/data/io.dcloud.HBuilder/.HBuilder/apps/HBuilder/doc/head.jpg
+(Input)Email: 15810120721</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users?id=3</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 13:45:19</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 
+(Input)CommentContent: 123456
+(Input)SubjectId: 13
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/23 13:45:19</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 13:48:22</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Insert, 参数如下：
+(Output)UserId: 
+(Input)UserName: Zgyinggu
+(Input)Password: 123456
+(Input)DisplayName: 中国英谷
+(Input)UserHeadImg: 
+(Input)Email: </target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 14:10:16</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 35
+(Input)CommentContent: 123
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/23 14:10:16</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 14:10:43</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Update, 参数如下：
+(Input)UserId: 3
+(Input)UserName: chenjt
+(Input)Password: 123456
+(Input)DisplayName: 陈家涛
+(Input)UserHeadImg: /storage/emulated/0/Android/data/io.dcloud.HBuilder/.HBuilder/apps/HBuilder/doc/head.jpg
+(Input)Email: 15810120721</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users?id=3</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 17:32:19</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Update, 参数如下：
+(Input)UserId: 3
+(Input)UserName: chenjt
+(Input)Password: 123456
+(Input)DisplayName: 陈家涛
+(Input)UserHeadImg: /storage/emulated/0/Android/data/io.dcloud.HBuilder/.HBuilder/apps/HBuilder/doc/head.jpg
+(Input)Email: 15810120721</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users?id=3</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 17:33:17</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 
+(Input)CommentContent: 评论
+(Input)SubjectId: 10
+(Input)CreatorId: 15
+(Input)CreatorName: 中国英谷
+(Input)CreateTime: 2015/11/23 17:33:17</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 17:42:35</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 37
+(Input)CommentContent: 各种汇见总统！
+(Input)SubjectId: 9
+(Input)CreatorId: 15
+(Input)CreatorName: 中国英谷
+(Input)CreateTime: 2015/11/23 17:42:35</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 17:53:32</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 37
+(Input)CommentContent: 好
+(Input)SubjectId: 12
+(Input)CreatorId: 15
+(Input)CreatorName: 中国英谷
+(Input)CreateTime: 2015/11/23 17:53:32</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/23 18:12:25</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Users_Update, 参数如下：
+(Input)UserId: 3
+(Input)UserName: chenjt
+(Input)Password: 123456
+(Input)DisplayName: 陈家涛
+(Input)UserHeadImg: /storage/emulated/0/Android/data/io.dcloud.HBuilder/.HBuilder/apps/HBuilder/doc/head.jpg
+(Input)Email: 15810120721</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users?id=3</pageURL>
+	<remark>数据调试</remark>
+</businessLog>

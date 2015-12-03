@@ -1,0 +1,433 @@
+
+<businessLog>
+	<createTime>2015/11/19 11:01:19</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 
+(Input)CommentContent: 回复内容了
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:01:19</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.105</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:02:44</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 
+(Input)CommentContent: 回复内容了
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:02:38</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.105</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:14:43</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 5
+(Input)CommentContent: 123
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:14:43</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:15:23</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 5
+(Input)CommentContent: 456
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:15:15</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:15:26</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 5
+(Input)CommentContent: 456
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:15:16</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:15:36</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 5
+(Input)CommentContent: 456
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:15:18</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:15:37</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 5
+(Input)CommentContent: 456
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:15:22</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:19:17</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 5
+(Input)CommentContent: 巴黎事件
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:19:14</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:34:17</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 
+(Input)CommentContent: 中国英谷
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:34:17</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:35:00</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 12
+(Input)CommentContent: 中国英谷
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:34:54</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:35:18</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 12
+(Input)CommentContent: 中国英谷
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:35:18</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:35:44</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 12
+(Input)CommentContent: 中国英谷
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:35:44</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:37:19</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 12
+(Input)CommentContent: 中国英谷
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:37:16</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:45:54</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 
+(Input)CommentContent: 这里的风景很好
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:45:44</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:47:20</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 17
+(Input)CommentContent: 霸道
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:47:20</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:47:35</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 17
+(Input)CommentContent: Abcdefgh
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:47:35</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:48:23</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 17
+(Input)CommentContent: 灌水区
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:48:23</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:48:35</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 17
+(Input)CommentContent: 好好
+(Input)SubjectId: 2
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:48:34</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:49:11</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 17
+(Input)CommentContent: 可以去那边工作了！
+(Input)SubjectId: 3
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:49:11</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:49:15</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 17
+(Input)CommentContent: 是啊
+(Input)SubjectId: 3
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:49:15</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:49:21</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 17
+(Input)CommentContent: 去那就好了
+(Input)SubjectId: 3
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:49:21</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:59:14</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 17
+(Input)CommentContent: 恭喜百度和中信银行成立了！
+(Input)SubjectId: 8
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:59:14</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:59:23</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 17
+(Input)CommentContent: 恭喜恭喜
+(Input)SubjectId: 8
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:59:23</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:59:30</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 17
+(Input)CommentContent: 不错不错
+(Input)SubjectId: 8
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:59:30</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 11:59:51</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 17
+(Input)CommentContent: 我也贡献了很多！
+(Input)SubjectId: 6
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 11:59:51</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 12:01:12</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 17
+(Input)CommentContent: 呵呵
+(Input)SubjectId: 3
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 12:01:12</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/19 15:44:43</createTime>
+	<userName></userName>
+	<operationType>DataDebug</operationType>
+	<target>准备执行dbo.Pr_Comment_Insert, 参数如下：
+(Output)Id: 
+(Input)CommentContent: 在干什么呢
+(Input)SubjectId: 8
+(Input)CreatorId: 3
+(Input)CreatorName: 陈家涛
+(Input)CreateTime: 2015/11/19 15:44:42</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.104</ipAddress>
+	<pageURL>/api/Comment</pageURL>
+	<remark>数据调试</remark>
+</businessLog>

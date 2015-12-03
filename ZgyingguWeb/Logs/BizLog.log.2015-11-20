@@ -1,0 +1,21 @@
+
+<businessLog>
+	<createTime>2015/11/20 18:31:48</createTime>
+	<userName></userName>
+	<operationType>UsersSave</operationType>
+	<target>UserId: 8</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>::1</ipAddress>
+	<pageURL>/api/Users?id=8</pageURL>
+	<remark>±£¥ÊUsers</remark>
+</businessLog>
+<businessLog>
+	<createTime>2015/11/20 18:32:39</createTime>
+	<userName></userName>
+	<operationType>UsersSave</operationType>
+	<target>UserId: 8</target>
+	<serverName>CHENJIATAO-PC</serverName>
+	<ipAddress>192.168.10.102</ipAddress>
+	<pageURL>/api/Users?id=8</pageURL>
+	<remark>±£¥ÊUsers</remark>
+</businessLog>
